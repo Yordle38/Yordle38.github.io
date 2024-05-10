@@ -1,0 +1,58 @@
+.navbar-nav .nav-item.active .nav-link {
+    color: black !important;
+}
+.navbar-brand {
+    padding-left:2%;
+}
+
+.btnContact{
+    padding-top:1em;
+}
+
+.imgShop{
+    max-width: 20%;
+}
+
+.btnchoix{
+    padding: 2%;
+    margin: 2%;
+}
+
+.navbar{
+    background-color: #e3f2fd !important;
+}
+
+.card{
+    margin-top:2%;
+}
+
+.boutiqueH1{
+    text-align: center;
+}
+
+.pageActuel{
+    background-color: #C1F3FB;
+}
+
+.navbar{
+    padding:0% !important;
+}
+
+.nav-item{
+    font-size:23px;
+}
+
+.navbar-brand{
+    font-size:25px;
+}
+
+footer{
+    font-size:25px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1); /* Inverse la couleur de l'icône */
+}
+li {
+    list-style-type: none;
+}
